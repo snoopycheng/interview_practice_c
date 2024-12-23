@@ -16,7 +16,7 @@ int main(){
 
     swap(&n1, &n2);
 
-    cout << "after swapping: " << n1 << " " << n2 << endl;
+    cout << n1 << "\n" << n2 << endl;
 
     return 0;
 }
